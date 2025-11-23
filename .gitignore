@@ -1,4 +1,4 @@
 # Ignore local virtual environment named "myenv"
-myenv/
+new_env/
 
 data/

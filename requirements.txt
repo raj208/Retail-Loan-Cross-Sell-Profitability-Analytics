@@ -1,0 +1,6 @@
+streamlit
+pandas
+joblib
+plotly
+
+# pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn plotly shap streamlit jupyter
